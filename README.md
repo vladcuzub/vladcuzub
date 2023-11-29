@@ -1,4 +1,4 @@
-### About me   : Front-End Developer / learning now  Back-end...!
+### About me   : I am a Junior Frondend Developer with a bachelor's degree in law and multiple certifications in frontend development, including React.js Javascript, HTML, and CSS. I have a passion for creating responsive and user-friendly websites and applications.I am eager to learn new technologies and frameworks.
 
 ### Skills
 

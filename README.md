@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ### I am a Junior Frondend Developer with a bachelor's degree in law and multiple certifications in frontend development, including React.js Javascript, HTML, and CSS. I have a passion for creating responsive and user-friendly websites and applications.I am eager to learn new technologies and frameworks.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vladcuzub&label=Profile%20views&color=0e75b6&style=flat" alt="vladcuzub" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
